@@ -3,8 +3,8 @@
 
 
 ***
-## A study of public sentiment in short videos of emergencies  
-## 面向突发事件短视频公众情绪的研究
+## Research on the Evolution of Public Opinion in Short Video of Emergencies: BERT and Knowledge Graph
+## 突发事件短视频舆情演化研究：BERT与知识图谱
 
 | raw_data                                                                                                    | data                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
