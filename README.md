@@ -3,8 +3,8 @@
 
 
 ***
-## Research on the Evolution of Public Opinion in Short Video of Emergencies: BERT and Knowledge Graph
-## 突发事件短视频舆情演化研究：BERT与知识图谱
+## Study on the Evolution of Short Video Public Opinion Toward Emergencies
+## 面向突发事件短视频舆情演化研究
 
 | raw_data                                                                                                    | data                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
