@@ -3,8 +3,8 @@
 
 
 ***
-## Study on the Evolution of Short Video Public Opinion Toward Emergencies
-## 面向突发事件短视频舆情演化研究
+## Exploring the Analysis and Countermeasures of Short Video User Comments on Breaking News Based on BERTopic
+## 基于BERTopic的突发事件短视频用户评论分析与对策探讨
 
 | raw_data                                                                                                    | data                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
