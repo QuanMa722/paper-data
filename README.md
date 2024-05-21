@@ -4,7 +4,7 @@
 
 ***
 ## Exploring the Analysis and Countermeasures of Short Video User Comments on Breaking News Based on BERTopic
-## 基于BERTopic的突发事件短视频用户评论分析与对策探讨
+## 基于LDA-BERTopic的突发事件短视频主题演化研究
 
 | raw_data                                                                                                    | 
 |-------------------------------------------------------------------------------------------------------------|
